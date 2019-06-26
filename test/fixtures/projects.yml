@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  max_members: 1
+  due_date: 2019-06-26 12:26:17
+  start_date: 2019-06-26 12:26:17
+  budget: 1
+  stage: MyString
+  name: MyString
+  description: MyText
+
+two:
+  category: MyString
+  max_members: 1
+  due_date: 2019-06-26 12:26:17
+  start_date: 2019-06-26 12:26:17
+  budget: 1
+  stage: MyString
+  name: MyString
+  description: MyText

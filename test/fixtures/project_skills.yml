@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  required_confidence_level: MyString
+  project: one
+  skill: one
+
+two:
+  required_confidence_level: MyString
+  project: two
+  skill: two
